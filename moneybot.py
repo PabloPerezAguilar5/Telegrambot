@@ -32,7 +32,7 @@ def obtener_cotizaciones():
     return valores
 
 #token bot de Telegram
-TOKEN = '6736596743:AAFZVoxxwzJ8vXKf_RdHW3rNfJA8G8E0V9I'
+TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 bot = telebot.TeleBot(TOKEN)
 
 # comando /start
