@@ -62,4 +62,4 @@ Contributions
 Contributions are welcome. If you encounter any problems or have any suggestions for improvement, please create an issue or submit a pull request.
 
 Author
-@KidAndroid
+@pabloperez
