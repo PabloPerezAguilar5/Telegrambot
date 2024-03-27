@@ -1,4 +1,8 @@
-Bot de Cotización de Moneda
+
+
+**Bot de Cotización de Moneda**
+<br>
+
 Este es un bot de Telegram que proporciona cotizaciones de diferentes tipos de moneda, incluyendo el dólar oficial, el dólar blue, el dólar MEP, el real brasileño y el euro. El bot muestra tanto los valores de compra como de venta de cada moneda en tiempo real usando tecnicas de web scraping con la web dolarhoy.com.
 
 Funcionamiento
@@ -9,7 +13,7 @@ El bot utiliza la librería requests para realizar solicitudes HTTP a las págin
 
 Uso:
 Clona este repositorio a tu máquina local:
-git clone https://github.com/KidAndroide-telBot.git
+git clone https://github.com/PabloPerezAguilar5/Telegrambot.git
 Instala las dependencias necesarias:
 pip install -r requirements.txt
 Configura el token del bot de Telegram en el archivo main.py.
@@ -37,7 +41,7 @@ The bot uses the requests library to make HTTP requests to the web pages contain
 
 Use:
 Clone this repository to your local machine:
-git clone https://github.com/KidAndroide-telBot.git
+git clone https://github.com/PabloPerezAguilar5/Telegrambot.git
 Install the necessary dependencies:
 pip install -r requirements.txt
 Configure the Telegram bot token in the main.py file.
