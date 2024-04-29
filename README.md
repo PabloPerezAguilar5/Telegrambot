@@ -1,3 +1,5 @@
+
+
 Bot de Cotización de Moneda
 Este es un bot de Telegram que proporciona cotizaciones de diferentes tipos de moneda, incluyendo el dólar oficial, el dólar blue, el dólar MEP, el real brasileño y el euro. El bot muestra tanto los valores de compra como de venta de cada moneda en tiempo real usando tecnicas de web scraping con la web dolarhoy.com.
 
