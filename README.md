@@ -11,26 +11,20 @@ El bot utiliza la librería requests para realizar solicitudes HTTP a las págin
 
 Uso:
 Clona este repositorio a tu máquina local:
-bash
-Copy code
-git clone https://github.com/KidAndroide-telBot.git
+git clone https://github.com/PabloPerezAguilar5/Telegrambot.git
 Instala las dependencias necesarias:
-bash
-Copy code
 pip install -r requirements.txt
 Configura el token del bot de Telegram en el archivo main.py.
 
 Ejecuta el bot:
 
-bash
-Copy code
 python main.py
 Interactúa con el bot en tu aplicación de Telegram.
 Contribuciones
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes alguna sugerencia de mejora, por favor crea un issue o envía un pull request.
 
 Autor
-@KidAndroide
+@PabloPerezAguilar5
 
 ---
 
@@ -45,23 +39,16 @@ The bot uses the requests library to make HTTP requests to the web pages contain
 
 Use:
 Clone this repository to your local machine:
-Bash
-Copy code
-git clone https://github.com/KidAndroide-telBot.git
+git clone https://github.com/PabloPerezAguilar5/Telegrambot.git
 Install the necessary dependencies:
-Bash
-Copy code
 pip install -r requirements.txt
 Configure the Telegram bot token in the main.py file.
 
 Run the bot:
-
-Bash
-Copy code
 python main.py
 Interact with the bot in your Telegram application.
 Contributions
 Contributions are welcome. If you encounter any problems or have any suggestions for improvement, please create an issue or submit a pull request.
 
 Author
-@KidAndroid
+@pabloperezAguilar5
