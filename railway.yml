@@ -5,6 +5,7 @@ services:
   app:
     env:
       - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
+      - PYTHON_VERSION=3.9
     numReplicas: 1
     startCommand: python moneybot.py
     sleepApplication: false
