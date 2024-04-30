@@ -70,4 +70,5 @@ def callback_query(call):
 
 
 if __name__ == "__main__":
-    bot.polling()
+    port = int(os.getenv('PORT', 8443))
+    bot.polling(none_stop=True, interval=0, timeout=20)
