@@ -1,0 +1,9 @@
+# railway.yml
+
+version: '1.0'
+services:
+  app:
+    image: python:3.9
+    command: python moneybot.py
+    env:
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
