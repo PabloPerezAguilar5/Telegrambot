@@ -29,7 +29,7 @@ def obtener_cotizacion(url):
         return {'Error': f'Error al obtener la cotización: {e}'}
 
 
-TOKEN =os.getenv('TELEGRAM_BOT_TOKEN')
+TOKEN ='6736596743:AAFZVoxxwzJ8vXKf_RdHW3rNfJA8G8E0V9I'
 bot = telebot.TeleBot(TOKEN)
 
 
